@@ -1,11 +1,11 @@
 # Responsive and interactive website
 
 ## Objective:
-Implement a responsive, accessible, and visually appealing website from a provided Figma design using Tailwind CSS, while enhancing it with modern UI/UX features such as sliders, accordions, tabs, form validation, dynamic content loading, and search functionality.
+Implement a responsive, accessible, and visually appealing website from a provided Figma design (choose any one) using Tailwind CSS, while enhancing it with modern UI/UX features such as sliders, accordions, tabs, form validation, dynamic content loading, and search functionality.
 
 
 ### Design Reference:
-Figma Link: https://www.figma.com/design/mprnfc4vMAmyp5QRsCJI9S/75-%2B-Fantastic-Travel-websitr-Templates-(Community)-(Copy)?node-id=0-1&p=f&t=MRdABWa4sIs13WOv-0
+Figma Link:  https://epa.ms/gB0K8 (choose any one)
 
 
 ## Requirements:
