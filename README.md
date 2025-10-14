@@ -46,5 +46,44 @@ Figma Link:  https://epa.ms/gB0K8 (choose any one)
 - Ensure keyboard navigation and screen reader compatibility. 
 - Optimize media and assets for fast load times.
 
+## Deliverables
+### Project structure (recommended)
+project-root/
+│
+├── index.html
+│
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+│
+├── vite.config.js           # Optional (for Vite)
+├── webpack.config.js        # Optional (for Webpack)
+│
+├── dist/
+│   └── output.css           # Compiled Tailwind output
+│
+└── src/
+    ├── css/
+    │   ├── tailwind.css     # Tailwind entry (base, components, utilities)
+    │   ├── components.css   # Custom reusable components (buttons, cards, etc.)
+    │   └── utilities.css    # Custom animations, transitions
+    │
+    ├── js/
+    │   ├── index.js         # Main entry point
+    │   ├── components.js    # Handles sliders, tabs, accordions
+    │   └── api.js           # Handles data fetching, search, form submission
+    │
+    ├── data/
+    │   └── posts.json       # Optional: fallback dummy data
+    │
+    └── assets/
+        ├── images/
+        └── videos/
+
+### Instructions
+1. Keep all your website components within components.js.
+2. Avoid creating too many JavaScript files — this helps GIT AI evaluate your code more effectively and provide accurate feedback.
+3. If you encounter a "token exceeding" error during GIT AI evaluation, try reducing the number of JavaScript files by combining them into 2 or 3 files
+
 
 
