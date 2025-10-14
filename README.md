@@ -48,39 +48,8 @@ Figma Link:  https://epa.ms/gB0K8 (choose any one)
 
 ## Deliverables
 ### Project structure (recommended)
-![Alt text](image.png)
+![Project structure](image.png)
 
-project-root/
-│
-├── index.html
-│
-├── package.json
-├── tailwind.config.js
-├── postcss.config.js
-│
-├── vite.config.js           # Optional (for Vite)
-├── webpack.config.js        # Optional (for Webpack)
-│
-├── dist/
-│   └── output.css           # Compiled Tailwind output
-│
-└── src/
-    ├── css/
-    │   ├── tailwind.css     # Tailwind entry (base, components, utilities)
-    │   ├── components.css   # Custom reusable components (buttons, cards, etc.)
-    │   └── utilities.css    # Custom animations, transitions
-    │
-    ├── js/
-    │   ├── index.js         # Main entry point
-    │   ├── components.js    # Handles sliders, tabs, accordions
-    │   └── api.js           # Handles data fetching, search, form submission
-    │
-    ├── data/
-    │   └── posts.json       # Optional: fallback dummy data
-    │
-    └── assets/
-        ├── images/
-        └── videos/
 
 ### Instructions
 1. Keep all your website components within components.js.
