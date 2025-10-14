@@ -48,6 +48,8 @@ Figma Link:  https://epa.ms/gB0K8 (choose any one)
 
 ## Deliverables
 ### Project structure (recommended)
+![Alt text](image.png)
+
 project-root/
 │
 ├── index.html
