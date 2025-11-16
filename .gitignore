@@ -1,3 +1,9 @@
 node_modules/
 dist/
 .vite/
+.vscode/
+*.log
+*.zip
+*.png
+*.jpg
+*.jpeg
