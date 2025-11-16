@@ -1,4 +1,7 @@
-import './styles/global.css';
+import '../css/tailwind.css';
+import '../css/components.css';
+import '../css/utilities.css';
+
 import { Header, Hero, Featured, Categories, Hotels, Cars, Testimonials, Blog, Footer } from './components.js';
 
 document.addEventListener('DOMContentLoaded', async () => {
