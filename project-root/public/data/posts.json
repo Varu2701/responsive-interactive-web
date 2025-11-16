@@ -1,0 +1,24 @@
+{
+  "tours": [
+    {"id":1,"title":"California Sunset/Twilight Boat Cruise","summary":"Relaxing sunset cruise with snacks","image":"https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1400&auto=format&fit=crop","price":48.29,"category":"Beach"},
+    {"id":2,"title":"NYC Food Tasting and Culture Tour","summary":"Taste the best bites in NYC","image":"https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=1400&q=80","price":37.32,"category":"City"},
+    {"id":3,"title":"Grand Canyon Viewpoints","summary":"2 day guided tour to the Grand Canyon","image":"https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1400&auto=format&fit=crop","price":116.63,"category":"Nature"},
+    {"id":4,"title":"Mediterranean Coastal Escape","summary":"Relax on crystal beaches","image":"https://images.unsplash.com/photo-1467269204594-9661b134dd2b?q=80&w=1400&auto=format&fit=crop","price":85.00,"category":"Beach"},
+    {"id":5,"title":"Alpine Hiking Adventure","summary":"Guided hikes with scenic views","image":"https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1400&auto=format&fit=crop","price":129.99,"category":"Nature"},
+    {"id":6,"title":"Cultural Heritage Walk","summary":"City history and architecture tour","image":"https://images.unsplash.com/photo-1505761671935-60b3a7427bad?auto=format&fit=crop&w=1400&q=80","price":29.50,"category":"City"}
+  ],
+  "hotels": [
+    {"id":1,"title":"California Sunset Resort","image":"https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1400&auto=format&fit=crop","price":89.99,"rating":4.6},
+    {"id":2,"title":"Grand Palace Hotel","image":"https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1400&q=80","price":120.00,"rating":4.9},
+    {"id":3,"title":"Coastal Retreat","image":"https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?q=80&w=1400&auto=format&fit=crop","price":75.50,"rating":4.4}
+  ],
+  "cars": [
+    {"id":1,"title":"Audi A3 1.6 TDI S line","image":"https://images.unsplash.com/photo-1542362567-b07e54358753?q=80&w=1400&auto=format&fit=crop","price":40.25},
+    {"id":2,"title":"BMW X5","image":"https://imgd.aeplcdn.com/664x374/n/cw/ec/152681/x5-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80","price":79.99},
+    {"id":3,"title":"Porsche 911","image":"https://images.unsplash.com/photo-1511919884226-fd3cad34687c?q=80&w=1400&auto=format&fit=crop","price":199.99}
+  ],
+  "posts": [
+    {"id":1,"title":"Ultimate Travel Packing Guide","image":"https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1400&auto=format&fit=crop","summary":"Tips to pack light and smart for any trip."},
+    {"id":2,"title":"Top 10 Beaches to Visit","image":"https://images.unsplash.com/photo-1467269204594-9661b134dd2b?q=80&w=1400&auto=format&fit=crop","summary":"Our favorites for sun and surf."}
+  ]
+}
